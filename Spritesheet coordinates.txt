@@ -1,0 +1,3 @@
+x, y, width, height = 8, 8, 32, 16 --brick
+x, y, width, height = 57, 136, 8, 8 --ball
+x, y, width, height = 144, 151, 64, 20
